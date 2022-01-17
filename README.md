@@ -1,2 +1,2 @@
 # JSDom
-Treinando Manipulação DOM com JS
+Treinando Manipulação DOM e Classes em JavaScript
